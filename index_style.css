@@ -2,7 +2,7 @@
 
 .banner {
 	border-top: 8px solid #32c8de;
-	background: #fff url('img/banner.png') repeat-x center center;
+	background: #fff url('img/banner.png') no-repeate;
 }
 
 .banner .container {
