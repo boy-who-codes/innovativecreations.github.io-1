@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
+
+.banner {
+	border-top: 8px solid #32c8de;
+	background: #fff url('img/banner.png') repeat-x center center;
+}
+
+.banner .container {
+	max-width: 800px;
+}
+
+.banner .banner-content {
+	padding: 150px 0; 
+}
+p{
+	margin-top: 0px;
+	font-size: 20px;
+	padding-left: 105px;
+	color: white;
+}
+#mayank{
+	margin-top: 10px;
+	padding-left: 90px;
+	font-size: 50px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.innovations{
+	margin-left: 35%;
+	float: left;
+	width: 30%;
+}
+.arduino{
+	
+}
+#projects{
+	margin-top: 3%;
+	font-family: sans-serif;
+	margin-bottom: 45%;
+}
+.wc{
+	color: #524949;
+}
